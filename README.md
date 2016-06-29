@@ -1,2 +1,9 @@
 # hello-world
-Following the tutorial to build a repository
+
+Hi All!
+
+Thanks for popping in! Nothing going on here. Hehehe......
+
+Try to look somewhere else to find something more interesting.
+
+Good Luck!
